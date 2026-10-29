@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Hi, I'm Isabella Martins
+# 💻 Hi, I'm Isabella Martins
 
 **`Business Intelligence & AI`**
 
