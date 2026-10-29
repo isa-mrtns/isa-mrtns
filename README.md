@@ -50,7 +50,7 @@ Interested in Business Intelligence, Data Analytics, and Artificial Intelligence
      style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
-          
+    ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
    <img 
      align="left"
      alt="Claude"
